@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="dongzjMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="dongzjMVC.war">
+      <element id="artifact" artifact-name="dongzjMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
